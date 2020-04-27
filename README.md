@@ -6,6 +6,4 @@ This sketch demonstrates transmission of ARINC 568 (or ARINC 561) Distance Measu
 
 The digital outputs shall be connected to proper level shifters in order to achieve the necessary electrical-level compatibility to the standard (0-12 V Output).
 
-It has been succesfully used to emulate ARINC 568 data output of Rockwell-Collins DME-40/42 in order to troubleshoot A/C system integration.
-
 This sketch can be used as skeleton for more complex data simulations. 
