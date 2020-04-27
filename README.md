@@ -1,5 +1,5 @@
 # ARINC 568 TX
-Arduino based ARINC 561 and 568 Transmitter
+Arduino based ARINC 568 (or 561) Transmitter
 
 # DESCRIPTION
 This sketch demonstrates transmission of ARINC 568 (or ARINC 561) Distance Measurement Equipment (DME) slant-range data with an Arduino Pro Mini clocked at 16 MHz.
